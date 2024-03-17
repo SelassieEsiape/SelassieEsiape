@@ -13,6 +13,7 @@ My name is Selassie Kwame Esiape, an aspiring consultant in the Information Syst
 
 ### 📜 Certifications
 Professional Scrum Master Certification by Scrum.org
+![Scrum Certification](certifications/Professional Scrum Master I.png)
 
 
 ### 😂 Random Dev Meme
