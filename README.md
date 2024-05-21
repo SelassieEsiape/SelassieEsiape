@@ -16,7 +16,3 @@ Professional Scrum Master Certification by Scrum.org
 ![Scrum Certification](certifications/Professional%20Scrum%20Master%20I.png)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
