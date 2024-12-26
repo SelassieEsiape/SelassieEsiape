@@ -1,5 +1,13 @@
 # 💫 About Me:
-My name is Selassie Kwame Esiape, an aspiring consultant in the Information Systems field. <br>My journey into the Technology field began with a passion for coding back home in Ghana<br>featuring a wide range of skills ranging from C++ to Javascript programming. Over time, <br>I honed my expertise not only in software development but also in the art of effective project<br> management. Currently, I am pursuing my academic endeavors at Brigham Young University,<br> where I am enrolled in the Master of Information Systems program. <br><br>I will use GitHub as a platform to share my projects, insights, and contributions. It's a place<br> where I would love to collaborate with like-minded people, share my experiences, and add to the rapidly<br> changing field of technology.
+My name is Selassie Kwame Esiape, and I am an aspiring data analyst with a foundation in Information Systems and a passion for uncovering insights from data. My journey into the tech field began with a love for coding back home in Ghana, where I developed skills in languages such as C++ and JavaScript. Over the years, I have expanded my expertise to include data analytics, machine learning, and dashboard visualization.
+<br>
+Currently, I am pursuing a Master of Information Systems at Brigham Young University, where I have focused on data science, machine learning in Python, and enterprise application development. My academic and professional experiences have allowed me to bridge the gap between technical development and data-driven decision-making.
+<br>
+In addition to my data analytics skills, I also have experience in website creation, having built and maintained my personal website at selassieesiape.com. This platform serves as a dynamic portfolio where I showcase my projects, resume, and insights.
+<br>
+On GitHub, I aim to share my projects and showcase my contributions to the field of data analytics. From Power BI dashboards to Python-based predictive models, I am excited to collaborate with like-minded individuals and contribute to solving complex problems with data.
+<br>
+
 
 
 ## 🌐 Socials:
